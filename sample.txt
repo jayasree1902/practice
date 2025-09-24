@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello
+=======
+hello
+changes in github
+>>>>>>> be08ca469104119497fe64af48ed0d364118fe9e
